@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/StevenPss/404-not-found/blob/main/public/static/404_not_found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
