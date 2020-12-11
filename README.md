@@ -41,13 +41,13 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  Here: [Demo](https://not-found-devchallenge.web.app/)
+   * Here: [Demo](https://not-found-devchallenge.web.app/)
 - What was your experience?
-  The challenge was easy but fun
+   * The challenge was easy but fun
 - What have you learned/improved?
-  My Html & Css skills were challenged but learnt some nice tricks
+   * My Html & Css skills were challenged but learnt some nice tricks
 - Your wisdom? :)
-  Going to be doing more challenges. So JOIN ME!
+   * Going to be doing more challenges. So **JOIN ME**!
 
 ### Built With
 
